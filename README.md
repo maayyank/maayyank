@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maayyank
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning express
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 Reach me at mayank.singh.rawat97@gmail.com
 
 <!---
