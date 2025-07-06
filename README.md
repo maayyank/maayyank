@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maayyank
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning express
+- 👀 I’m fullstack development
+- 🌱 I’m currently working in MNC
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 Reach me at mayank.singh.rawat97@gmail.com
 
